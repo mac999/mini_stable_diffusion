@@ -1,4 +1,7 @@
-# 스테이블 디퓨전 모델 정의
+# title: mini stable diffusion
+# purpose: stable diffusion architecture analysis
+# date: 2024.2
+# modifier: Taewook Kang
 import math, numpy as np, matplotlib.pyplot as plt
 import torch, torch.nn as nn, torch.nn.functional as F
 import functools, torchvision, torchvision.transforms as transforms
